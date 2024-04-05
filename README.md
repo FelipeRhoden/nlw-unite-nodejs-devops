@@ -1,3 +1,9 @@
+# NLW Devops
+
+Esse projeto é um fork para praticas da trilha de Devops da NLW. Grande parte do código não foi criada por mim, tendo o foco em criar a parte voltada para Devops. Os commits serão feitos de acorodo com as aulas assistidas tendo o profixo `class` mais o número da aula.
+
+Abaixo ficará o READ.ME do projeto.
+
 # pass.in
 
 O pass.in é uma aplicação de **gestão de participantes em eventos presenciais**. 
